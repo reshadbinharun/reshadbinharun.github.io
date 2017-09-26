@@ -1,4 +1,33 @@
-Body {
+
+#name {
+	font-family: Helvetica;
+	color: blue;
+	font-size: 20px;
+}
+
+#edu {
+	font-family: Calibri;
+	color: rgb(0,255,0);
+	font-size: 16px;
+}
+
+#profex {
 	font-family: Arial;
-	background-color: blue;
+	color: rgb(120,0,120);
+	font-size: 16px;
+	background-color: rgb(100,200,100);
+}
+
+#skills {
+	font-family: Arial;
+	color: rgb(120,0,120);
+	font-size: 16px;
+	background-color: rgb(100,200,100);
+}
+
+#act {
+	font-family: Arial;
+	color: rgb(120,0,120);
+	font-size: 16px;
+	background-color: rgb(100,200,100);	
 }
