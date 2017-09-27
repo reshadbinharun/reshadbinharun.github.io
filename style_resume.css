@@ -1,33 +1,45 @@
 
+
 #name {
 	font-family: Helvetica;
-	color: blue;
+	font-weight: bold;
+	color: brown;
 	font-size: 20px;
 }
 
 #edu {
-	font-family: Calibri;
-	color: rgb(0,255,0);
+	font-family: Trebuchet MS;
+	color: #900C3F;
 	font-size: 16px;
 }
 
 #profex {
-	font-family: Arial;
-	color: rgb(120,0,120);
+	font-family: Trebuchet MS;
+	color: #900C3F;
 	font-size: 16px;
-	background-color: rgb(100,200,100);
+	background-color: #FFBE33;
 }
 
 #skills {
-	font-family: Arial;
-	color: rgb(120,0,120);
+	font-family: Trebuchet MS;
+	color: #900C3F;
 	font-size: 16px;
-	background-color: rgb(100,200,100);
+	background-color: #FECC62;
+	font-weight: bold;
 }
 
 #act {
-	font-family: Arial;
-	color: rgb(120,0,120);
+	font-family: Trebuchet MS;
+	color: #900C3F;
 	font-size: 16px;
-	background-color: rgb(100,200,100);	
+	background-color: #FDDC95;	
+}
+
+.box {
+	display: flex;
+	align-content: center;
+	flex-direction: column;
+	flex-wrap: wrap;
+	background-color: #E0DAAD;
+	margin: 20px;
 }
