@@ -3,10 +3,9 @@
 	font-size: 20px;
 	margin: auto;
 	font-weight: bold;
-	font-color: #F3F2B7;
+	color: #FFC300;
 }
 
 #box_image {
-	background-color: #F7CD75;
-	margin: auto;
+	margin: 100px;
 }
